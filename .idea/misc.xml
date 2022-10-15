@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/baitap/code/Android/HappyPlaces/app/src/main/res/drawable-v24/ic_baseline_delete_24.xml" value="0.1305" />
+        <entry key="..\:/baitap/code/Android/HappyPlaces/app/src/main/res/drawable/ic_baseline_add.xml" value="0.1115" />
+        <entry key="..\:/baitap/code/Android/HappyPlaces/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.123" />
+        <entry key="..\:/baitap/code/Android/HappyPlaces/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.1305" />
+        <entry key="..\:/baitap/code/Android/HappyPlaces/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.1305" />
+        <entry key="..\:/baitap/code/Android/HappyPlaces/app/src/main/res/drawable/ic_baseline_image_24.xml" value="0.123" />
+        <entry key="..\:/baitap/code/Android/HappyPlaces/app/src/main/res/layout-v28/place_item.xml" value="0.17552083333333332" />
+        <entry key="..\:/baitap/code/Android/HappyPlaces/app/src/main/res/layout/activity_add_happy_places.xml" value="0.1" />
+        <entry key="..\:/baitap/code/Android/HappyPlaces/app/src/main/res/layout/activity_happy_place_infomation.xml" value="0.17552083333333332" />
+        <entry key="..\:/baitap/code/Android/HappyPlaces/app/src/main/res/layout/activity_happy_place_information.xml" value="0.17552083333333332" />
+        <entry key="..\:/baitap/code/Android/HappyPlaces/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/baitap/code/Android/HappyPlaces/app/src/main/res/layout/activity_maps.xml" value="0.16259057971014493" />
+        <entry key="..\:/baitap/code/Android/HappyPlaces/app/src/main/res/layout/dialog_custom_progress.xml" value="0.16666666666666666" />
+        <entry key="..\:/baitap/code/Android/HappyPlaces/app/src/main/res/layout/dialog_image.xml" value="0.16259057971014493" />
+        <entry key="..\:/baitap/code/Android/HappyPlaces/app/src/main/res/layout/fragment_maps.xml" value="0.17552083333333332" />
+        <entry key="..\:/baitap/code/Android/HappyPlaces/app/src/main/res/layout/place_item.xml" value="0.16666666666666666" />
+        <entry key="..\:/baitap/code/Android/HappyPlaces/app/src/main/res/layout/place_item2.xml" value="0.17552083333333332" />
+        <entry key="..\:/baitap/code/Android/HappyPlaces/app/src/main/res/layout/popup_dialog_place_item.xml" value="0.16259057971014493" />
+        <entry key="..\:/baitap/code/Android/HappyPlaces/app/src/main/res/layout/swipe_layout.xml" value="0.17447916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

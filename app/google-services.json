@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "885920135882",
+    "firebase_url": "https://happy-places-a4b38-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "happy-places-a4b38",
+    "storage_bucket": "happy-places-a4b38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885920135882:android:0ef633ed4cc16a169e1233",
+        "android_client_info": {
+          "package_name": "com.example.happyplaces"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885920135882-c5rqdkk3dumdq3k5gqev1pu87sqeithi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALdhw4Zf8iH4SRlIuNf3pugxnZzF5TdkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885920135882-c5rqdkk3dumdq3k5gqev1pu87sqeithi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
